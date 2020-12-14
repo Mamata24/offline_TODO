@@ -46,6 +46,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- I take all the responsiblity for every signle line of code.
+- I take all the responsiblity for every single line of code.
 
 

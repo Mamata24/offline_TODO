@@ -46,7 +46,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - I take all the responsiblity for every single line of code.
-  <<<<<<< HEAD
-  =======
-
-> > > > > > > 8e589e8efae99da8c44c7f6275e9fb7f09f09044
+ 

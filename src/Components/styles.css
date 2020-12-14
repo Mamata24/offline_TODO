@@ -37,6 +37,14 @@ input[type="text"] {
   border: 0px;
 }
 
+.textArea {
+  padding-top: 10px;
+  width: 250px;
+  border-radius: 5px;
+  border: 0px;
+  top: auto;
+}
+
 .btn-addTodo,
 .btn-deleteTodo,
 .btn-all,

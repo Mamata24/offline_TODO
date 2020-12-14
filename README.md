@@ -12,10 +12,6 @@
 - Bootstrap
 - Material UI
 
-# <<<<<<< HEAD
-
-> > > > > > > 8e589e8efae99da8c44c7f6275e9fb7f09f09044
-
 ## Getting Started
 
 **Just fork it and feel free to use it.**
